@@ -6,3 +6,4 @@
 <p>tar, unzip, and other extraction programs to extract your software</p>
 <p>ALL of the provided base code(the ShInstallBase file): THIS IS REQUIRED!</p>
 <p>*if you want to use any other command or want a command added, please ask through github!</p>
+<p>This system will eventually become the power behind GalacticaOS's package manager and will become monitized more heavily!</p>
