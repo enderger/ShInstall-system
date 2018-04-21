@@ -7,7 +7,6 @@
 	 echo "You do not have sudo installed, or you aren't using it."
      exit
  fi
- sudo -v
  echo "Welcome to the ShInstall Demo!"
  echo "ShInstall version 18.04 (beta 0.0.1) from GalactiDev"
  echo "Prepairing to install the program test1 from the files in the online website https://bit.ly/2HGVWmf." #Change the last part of this line to your download link for the file.
